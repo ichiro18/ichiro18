@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ichiro18" alt="ichiro18" /> </p>
 
-- 🔭 I’m currently working on [Hoff](hoff.ru)
-
 - 🌱 I’m currently learning **React (Advanced), React Native, RxJS**
 
 - 👨‍💻 All of my projects are available at [career.habr.com/ichiro18](career.habr.com/ichiro18)
